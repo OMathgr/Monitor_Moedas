@@ -251,7 +251,7 @@ O projeto será desenvolvido de forma incremental, começando com uma aplicaçã
 * [x] Indicador visual de alta e baixa
 * [x] Persistência do histórico em SQLite
 * [x] Alertas de variação no terminal
-* [ ] Configuração personalizada dos limites de alerta
+* [x] Configuração personalizada dos limites de alerta
 
 ### 🔵 Versão 2 — Dashboard Web
 
